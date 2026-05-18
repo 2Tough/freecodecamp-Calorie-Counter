@@ -1,2 +1,2 @@
-# freeCodeCamp-Calorie-Counter
+# freecodecamp-calorie-counter
 A calorie counter form
